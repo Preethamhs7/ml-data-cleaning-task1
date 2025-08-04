@@ -13,7 +13,7 @@ This project is a stepping stone into the field of data science and machine lear
 * Transformed *Sex* into numerical format (0 = male, 1 = female)
 * Used One-Hot Encoding for *Embarked* to convert categories into binary variables
 
-### eature Scaling
+### Feature Scaling
 * Applied *MinMaxScaler* to normalize *Age* and *Fare* between 0 and 1 for model readiness
 
 ### Outlier Handling
