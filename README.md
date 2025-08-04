@@ -42,7 +42,7 @@ This helped me build a strong foundation for the preprocessing stage — one of 
 
 | File | Description |
 |------|-------------|
-| cleaned_titanic.csv | Cleaned and normalized dataset |
+| cleaned_titanic_dataset.csv | Cleaned and normalized dataset |
 | task1.ipynb | Full preprocessing notebook |
 | README.md | This documentation file |
 
